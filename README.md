@@ -102,5 +102,3 @@ Monsters, Inc. (2001)
 
 BCA Student | AI & Machine Learning Learner
 
-GitHub: Your GitHub Profile Link
-LinkedIn: Your LinkedIn Profile Link
